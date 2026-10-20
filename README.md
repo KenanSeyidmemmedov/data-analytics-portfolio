@@ -38,4 +38,4 @@ Project files and results will be added as the work progresses.
 
 ## Contact
 
-- LinkedIn: linkedin.com/in/kənan-seyidməmmədov
+- LinkedIn: https://www.linkedin.com/in/kənan-seyidməmmədov
